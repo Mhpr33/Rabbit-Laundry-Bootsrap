@@ -1,1 +1,1 @@
-# Rabbit-Laundry-Bootsrap
+# Rabbit-Laundry-Bootstrap
